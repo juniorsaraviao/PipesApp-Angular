@@ -1,6 +1,12 @@
 # PipesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0 ([Fernando Herrera's Angular Course](https://www.udemy.com/course/angular-fernando-herrera/)).
+
+- Angular 11
+- Pipes
+- [PrimeNG](https://www.primefaces.org/primeng/)
+
+![PipesApp](https://raw.githubusercontent.com/juniorsaraviao/PipesApp-Angular/master/resources/PipeApp.png)
 
 ## Development server
 
